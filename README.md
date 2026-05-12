@@ -24,7 +24,7 @@ Table of contents
 
 Demo
 ----
-Include a short GIF or a link to a walkthrough video here.
+
 
 Features
 --------
@@ -52,7 +52,6 @@ Built With
 
 Getting Started
 ---------------
-These instructions will help you get a local copy running for development and testing.
 
 Prerequisites
 - Android Studio (Arctic Fox / Electric Eel or newer)
@@ -68,18 +67,16 @@ Install & Run
 
 Configuration
 -------------
-If your app uses Firebase or external APIs, include these steps:
-1. Create a Firebase project at https://console.firebase.google.com/
+1.Firebase project at https://console.firebase.google.com/
 2. Add an Android app and download `google-services.json`.
 3. Place `google-services.json` into the `app/` module root.
 4. Add any required API keys to `local.properties` or a safe config file and do NOT commit them.
 
 Download APK
 ------------
-You can host your APK in Releases for easier downloads. Example:
+
 - Releases: https://github.com/coderxanuj-789/My-project-Sunoh-/releases
 
-(Or add direct link to the APK here when uploaded.)
 
 Contributing
 ------------
@@ -87,14 +84,8 @@ Contributions are welcome! A suggested CONTRIBUTING.md should include:
 - How to open an issue
 - How to submit a pull request
 - Coding style (Kotlin style guide or Java conventions)
-- How to run tests (if any)
+- How to run tests
 
-Basic contribution steps:
-1. Fork the repo
-2. Create a feature branch: `git checkout -b feat/my-feature`
-3. Commit your changes: `git commit -m "Add my feature"`
-4. Push to the branch: `git push origin feat/my-feature`
-5. Open a pull request
 
 Roadmap
 -------
@@ -105,7 +96,7 @@ Roadmap
 
 License
 -------
-This project should include a license file. Example: MIT. Add `LICENSE` to the repo and update the badge above.
+MIT `LICENSE'
 
 Author
 ------
